@@ -10,5 +10,6 @@ public class Gittest {
         System.out.println("只是git2");
         System.out.println("只是git2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
